@@ -28,3 +28,11 @@ CatchAI/
 ├── .env # Azure endpoint & key (DO NOT COMMIT)
 ├── requirements.txt
 └── README.md
+
+
+## 🔗 LinkedIn-Ready Bullets
+
+* Built an AI-powered fishing log and predictor using Python and scikit-learn.
+* Integrated time, weather, and location features to forecast optimal catch hours.
+* Designed modular architecture for image captioning via Azure Vision or local models.
+* Delivered clean data pipeline, model persistence, and reproducible results for portfolio use.

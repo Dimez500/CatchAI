@@ -19,3 +19,12 @@ Built for curiosity, data exploration, and a love of fishing.
 ---
 
 ## 🧰 Project Structure
+CatchAI/
+│
+├── catchai_baseline.py # Core model training & top-hour predictor
+├── catchai_vision.py # Azure AI Vision wrapper for captions & species
+├── species_keywords.json # Local fish-species keyword mapping
+├── catchai_dataset_template.csv # Sample dataset (replace with your own log)
+├── .env # Azure endpoint & key (DO NOT COMMIT)
+├── requirements.txt
+└── README.md

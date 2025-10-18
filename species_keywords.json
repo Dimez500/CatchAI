@@ -1,0 +1,21 @@
+{
+  "largemouth bass": ["largemouth", "black bass", "micropterus salmoides"],
+  "smallmouth bass": ["smallmouth", "micropterus dolomieu"],
+  "striped bass": ["striped bass", "striper", "morone saxatilis"],
+  "white bass": ["white bass", "morone chrysops"],
+  "guadalupe bass": ["guadalupe bass"],
+  "spotted bass": ["spotted bass", "kentucky bass"],
+  "bluegill": ["bluegill", "bream", "lepomis macrochirus", "sunfish"],
+  "redear sunfish": ["redear", "shellcracker", "lepomis microlophus"],
+  "crappie": ["crappie", "papermouth", "black crappie", "white crappie"],
+  "catfish": ["catfish", "channel catfish", "blue catfish", "flathead catfish"],
+  "carp": ["carp", "common carp", "cyprinus carpio"],
+  "trout": ["trout", "rainbow trout", "brown trout", "brook trout"],
+  "walleye": ["walleye"],
+  "saugeye": ["saugeye"],
+  "sauger": ["sauger"],
+  "northern pike": ["northern pike", "pike", "esox lucius"],
+  "muskellunge": ["muskie", "muskellunge", "esox masquinongy"],
+  "perch": ["perch", "yellow perch"],
+  "drum": ["freshwater drum", "gaspergou"]
+}

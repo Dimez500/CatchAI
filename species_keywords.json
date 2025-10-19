@@ -17,5 +17,10 @@
   "northern pike": ["northern pike", "pike", "esox lucius"],
   "muskellunge": ["muskie", "muskellunge", "esox masquinongy"],
   "perch": ["perch", "yellow perch"],
-  "drum": ["freshwater drum", "gaspergou"]
+  "drum": ["freshwater drum", "gaspergou"],
+  "largemouth bass": ["largemouth", "black bass", "micropterus salmoides", "bass"],
+  "smallmouth bass": ["smallmouth", "micropterus dolomieu", "bronze back", "bass"],
+  "spotted bass": ["spotted bass", "kentucky bass", "alabama bass", "bass"],
+  "white bass": ["white bass", "sand bass", "morone chrysops"],
+  "striped bass": ["striped bass", "striper", "morone saxatilis"]
 }

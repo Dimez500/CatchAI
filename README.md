@@ -32,10 +32,7 @@ CatchAI/
 
 ## 🔗 LinkedIn-Ready Bullets
 
-Built an AI-powered fishing log and predictor using Python, scikit-learn, and Azure Vision.
-
-Integrated image captioning & species detection with Azure AI Vision API.
-
-Delivered reproducible results and clean data pipelines for portfolio demonstration.
-
-Applied time-series and logistic regression to forecast optimal catch windows.
+- Built an AI-powered fishing log and predictor using Python, scikit-learn, and Azure Vision.  
+- Integrated image captioning & species detection with Azure AI Vision API.  
+- Delivered reproducible results and clean data pipelines for portfolio demonstration.  
+- Applied time-series and logistic regression to forecast optimal catch windows.  
